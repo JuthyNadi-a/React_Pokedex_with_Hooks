@@ -1,0 +1,7 @@
+.main {
+    background: url('assets/pexels-nikita-belokhonov-6066072.jpg') no-repeat center center/cover;
+    min-height: 78vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
